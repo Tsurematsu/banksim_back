@@ -2,13 +2,12 @@
   "name": "banksim_back",
   "version": "1.0.0",
   "description": "",
-  "types": "modules",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "license": "ISC"
 }
