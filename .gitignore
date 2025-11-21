@@ -20,3 +20,4 @@ build/
 Thumbs.db           # Windows
 .vscode/            # VS Code
 .idea/              # WebStorm/IntelliJ
+.vercel
