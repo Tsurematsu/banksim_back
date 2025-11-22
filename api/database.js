@@ -1,4 +1,3 @@
-import "dotenv/config.js";
 import { DataSource } from "typeorm";
 import Usuario from "./models/Usuario.js";
 

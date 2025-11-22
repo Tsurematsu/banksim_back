@@ -9,16 +9,16 @@ export default new EntitySchema({
       type: "int",
       generated: true,
     },
-    password_hash: {
-      type: "varchar",
-      nullable: true
-    },
     email: {
       type: "varchar",
       unique: true,
       nullable: true
     },
     fullname: {
+      type: "varchar",
+      nullable: true
+    },
+    password_hash: {
       type: "varchar",
       nullable: true
     },
